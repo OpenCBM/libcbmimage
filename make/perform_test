@@ -1,0 +1,60 @@
+#!/bin/bash
+
+# Parameters:
+# $1 - path to source file
+# $2 - program to execute
+# $3 and above: Parameters, if there are any
+
+if [ -z "$1" ]; then
+	echo "No source file given, aborting."
+	exit 1
+fi
+SOURCEFILE=$1
+shift
+
+if [ -z "$1" ]; then
+	echo "No program to execute given with source file $SOURCEFILE, aborting."
+	exit 2
+fi
+
+if [ 1 == 0 ]; then
+if [ -e $SOURCEFILE.mustfail ]; then
+	echo "Executing $1 $*, must fail!"
+else
+	echo "Executing $1 $*"
+fi
+fi
+
+$1 "$*" > $1.1 2> $1.2
+
+RET=$?
+
+print_output() {
+	echo "--- Output:"
+	cat $1.1
+	echo "--- Error Output:"
+	cat $1.2
+}
+
+if [ -e $SOURCEFILE.mustfail ]; then
+	if [ $RET -eq 0 ]; then
+		echo "********* DID NOT FAIL!"
+		print_output "$1"
+		exit 1
+	else
+		tail -n1 < $1.2 > $1.2.tmp
+		diff --strip-trailing-cr -B -u $SOURCEFILE.mustfail $1.2.tmp
+		if [ $? -gt 0 ]; then
+			echo "Wrong error!"
+			exit 1
+		fi
+		exit 0
+	fi
+else
+	if [ $RET -gt 0 ]; then
+		echo "********* FAILED with $RET!"
+		print_output "$1"
+	fi
+fi
+
+exit $RET
