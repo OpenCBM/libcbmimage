@@ -1,0 +1,21 @@
+name: python-app
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout repo
+      uses: actions/checkout@main
+
+    - name: build application
+      run: make
+
+    - name: execute tests
+      run: make t
