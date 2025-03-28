@@ -1,0 +1,9 @@
+<map id="cbmimage_dir_entry_s" name="cbmimage_dir_entry_s">
+<area shape="rect" id="Node000001" title="A directory entry." alt="" coords="36,228,187,253"/>
+<area shape="rect" id="Node000002" href="$structcbmimage__dir__header__name__s.html" title="The name of a directory header or directory entry." alt="" coords="5,94,154,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,149,111,226,106,228,86,150"/>
+<area shape="rect" id="Node000003" href="$structcbmimage__blockaddress__s.html" title="Address on drive." alt="" coords="178,102,357,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,139,128,229,125,225,239,135"/>
+<area shape="rect" id="Node000004" href="$structcbmimage__track__sector__s.html" title="Address on floppy: Track/Sector variant." alt="" coords="180,5,355,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,47,270,101,265,101,265,47"/>
+</map>

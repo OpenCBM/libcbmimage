@@ -1,0 +1,9 @@
+<map id="include/cbmimage/internal.h" name="include/cbmimage/internal.h">
+<area shape="rect" id="Node000001" title="cbmimage internals" alt="" coords="5,5,188,31"/>
+<area shape="rect" id="Node000002" href="$cbmimage_8h.html" title="cbmimage API and their definitions" alt="" coords="51,79,142,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,31,99,63,94,63,94,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="19,153,86,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,106,70,141,66,138,87,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="110,153,174,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="106,103,128,138,124,141,102,106"/>
+</map>

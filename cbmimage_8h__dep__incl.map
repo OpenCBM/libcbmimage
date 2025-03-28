@@ -1,0 +1,45 @@
+<map id="include/cbmimage.h" name="include/cbmimage.h">
+<area shape="rect" id="Node000001" title="cbmimage API and their definitions" alt="" coords="1168,5,1304,31"/>
+<area shape="rect" id="Node000002" href="$internal_8h.html" title="cbmimage internals" alt="" coords="1145,79,1328,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1239,46,1239,79,1234,79,1234,46"/>
+<area shape="rect" id="Node000003" href="$alloc_8c.html" title="cbmimage: allocation functions" alt="" coords="5,153,81,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1130,95,935,97,677,105,386,123,238,137,93,155,82,157,81,152,92,150,237,132,386,118,677,100,935,92,1130,90"/>
+<area shape="rect" id="Node000004" href="$bam_8c.html" title="cbmimage: BAM processing functions" alt="" coords="105,153,178,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1130,96,951,98,717,107,454,125,320,138,190,155,179,157,178,152,189,150,320,133,453,120,716,102,951,93,1130,90"/>
+<area shape="rect" id="Node000005" href="$blockaccessor_8c.html" title="cbmimage: Structure to access specific blocks" alt="" coords="202,153,334,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1130,100,781,119,565,135,347,155,335,157,335,151,347,150,564,130,781,114,1129,95"/>
+<area shape="rect" id="Node000006" href="$blockaddress_8c.html" title="cbmimage: specificy &quot;addresses&quot; into images" alt="" coords="359,153,484,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1130,102,844,122,497,155,485,157,484,151,496,150,843,117,1130,97"/>
+<area shape="rect" id="Node000007" href="$cbprint_8c.html" title="cbmimage: return text print(f)&#45;style" alt="" coords="509,153,596,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1130,102,891,122,749,137,609,155,597,157,596,152,608,150,749,131,890,117,1130,97"/>
+<area shape="rect" id="Node000008" href="$chain_8c.html" title="cbmimage: follow a file chain" alt="" coords="621,153,700,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1130,104,935,124,711,155,701,157,700,152,711,150,934,119,1129,99"/>
+<area shape="rect" id="Node000009" href="$d1m__d2m__d4m_8c.html" title="cbmimage: specific functions and data for D1M, D2M and D4M images" alt="" coords="724,153,861,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1146,110,862,156,861,150,1145,105"/>
+<area shape="rect" id="Node000010" href="$d40__d64__d71_8c.html" title="cbmimage: specific functions and data for D40, D64 and D71 images" alt="" coords="886,153,1011,178"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1173,111,998,155,997,149,1172,106"/>
+<area shape="rect" id="Node000011" href="$d80__d82_8c.html" title="cbmimage: specific functions and data for D80 and D82 images" alt="" coords="1036,153,1133,178"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1198,114,1111,154,1109,150,1196,109"/>
+<area shape="rect" id="Node000012" href="$d81_8c.html" title="cbmimage: specific functions and data for D81 images" alt="" coords="1158,153,1227,178"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1223,119,1202,154,1197,151,1219,116"/>
+<area shape="rect" id="Node000013" href="$dir_8c.html" title="cbmimage: Directory processing functions" alt="" coords="1250,153,1313,178"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="1254,116,1276,151,1272,154,1250,119"/>
+<area shape="rect" id="Node000014" href="$dnp_8c.html" title="cbmimage: specific functions for CMD native partitions (DNP)" alt="" coords="1336,153,1406,178"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="1274,110,1349,150,1347,154,1272,115"/>
+<area shape="rect" id="Node000015" href="$fat_8c.html" title="cbmimage: FAT processing functions" alt="" coords="1430,153,1493,178"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="1290,107,1430,151,1429,157,1288,112"/>
+<area shape="rect" id="Node000016" href="$file_8c.html" title="cbmimage: file handling functions" alt="" coords="1518,153,1582,178"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="1310,106,1506,150,1518,153,1516,158,1505,155,1308,111"/>
+<area shape="rect" id="Node000017" href="$fileimage_8c.html" title="cbmimage: image specific processing" alt="" coords="1605,153,1705,178"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1327,105,1594,150,1605,152,1604,157,1593,155,1327,110"/>
+<area shape="rect" id="Node000018" href="$getters_8c.html" title="cbmimage: getting image specific data" alt="" coords="1728,153,1816,178"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="1343,101,1519,122,1717,150,1728,152,1727,157,1716,155,1518,127,1343,107"/>
+<area shape="rect" id="Node000019" href="$loop_8c.html" title="cbmimage: loop detector functions" alt="" coords="1840,153,1912,178"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="1344,97,1568,116,1699,131,1829,150,1840,152,1839,157,1828,155,1698,136,1567,121,1343,102"/>
+<area shape="rect" id="Node000020" href="$readwriteblock_8c.html" title="cbmimage: read and write blocks into/from an image" alt="" coords="1937,153,2069,178"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="1343,98,1608,119,1925,150,1937,152,1936,157,1924,155,1607,124,1343,103"/>
+<area shape="rect" id="Node000021" href="$testhelper_8c.html" title="cbmimage Test helper functions" alt="" coords="2093,153,2198,178"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="1343,94,1674,112,1878,128,2082,150,2093,152,2092,157,2081,155,1877,134,1673,118,1343,100"/>
+<area shape="rect" id="Node000022" href="$validate_8c.html" title="cbmimage: validate disk" alt="" coords="2223,153,2316,178"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="1343,92,1727,108,1969,125,2211,150,2223,152,2222,157,2211,155,1968,130,1727,113,1343,98"/>
+</map>

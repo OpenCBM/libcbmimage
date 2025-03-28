@@ -1,0 +1,118 @@
+var group__cbmimage__image =
+[
+    [ "cbmimage_fileimage_s", "structcbmimage__fileimage__s.html", [
+      [ "bufferarray", "structcbmimage__fileimage__s.html#ab1118dc58c6d53d2abe30a6b9e0781b1", null ],
+      [ "global_settings", "structcbmimage__fileimage__s.html#a116a3485d9776dcd761d3d7ce35c942b", null ],
+      [ "parameter", "structcbmimage__fileimage__s.html#ac8a8d24a27c987d5af435cd1e2f6e10c", null ],
+      [ "settings", "structcbmimage__fileimage__s.html#a4dfb81c0f09018fc260688b2addfe8c5", null ]
+    ] ],
+    [ "cbmimage_i_d40_d64_d71_image_settings_s", "structcbmimage__i__d40__d64__d71__image__settings__s.html", [
+      [ "bam", "structcbmimage__i__d40__d64__d71__image__settings__s.html#a5bdc59a5c486e988f3c9703c375d8ce7", null ],
+      [ "bam_counter", "structcbmimage__i__d40__d64__d71__image__settings__s.html#a36975b29bc6838660fedb85a6a18f2f5", null ],
+      [ "sectors_in_track", "structcbmimage__i__d40__d64__d71__image__settings__s.html#a9b85a9bb91f529e84228103d48d86c5a", null ],
+      [ "track_lba_start", "structcbmimage__i__d40__d64__d71__image__settings__s.html#a4ba75cf30b36d673b63492ce60dbe4b1", null ]
+    ] ],
+    [ "cbmimage_i_d81_image_settings_s", "structcbmimage__i__d81__image__settings__s.html", [
+      [ "bam", "structcbmimage__i__d81__image__settings__s.html#a59895a874cd4305710d6914f220d75b0", null ],
+      [ "bam_counter", "structcbmimage__i__d81__image__settings__s.html#a77d0bc2e6b8b788e4d7f3a51a8dd9e34", null ]
+    ] ],
+    [ "cbmimage_i_d80_d82_image_settings_s", "structcbmimage__i__d80__d82__image__settings__s.html", [
+      [ "bam", "structcbmimage__i__d80__d82__image__settings__s.html#a8de3c362906571181d367f364d91c8d4", null ],
+      [ "bam_counter", "structcbmimage__i__d80__d82__image__settings__s.html#a18c30820c82450ac62184249dc39b77b", null ],
+      [ "sectors_in_track", "structcbmimage__i__d80__d82__image__settings__s.html#aa17f36991bf59bc5deaf2890ebacccb5", null ],
+      [ "track_lba_start", "structcbmimage__i__d80__d82__image__settings__s.html#a2be19e7257246cde03b235b242d00516", null ]
+    ] ],
+    [ "cbmimage_i_d1m_d2m_d4m_image_settings_s", "structcbmimage__i__d1m__d2m__d4m__image__settings__s.html", [
+      [ "bam", "structcbmimage__i__d1m__d2m__d4m__image__settings__s.html#a7c78059c4713f037fc84f3407af72212", null ],
+      [ "bam_counter", "structcbmimage__i__d1m__d2m__d4m__image__settings__s.html#ada6ecb3792d00bb71a5dab58f7245254", null ]
+    ] ],
+    [ "cbmimage_i_dnp_image_settings_s", "structcbmimage__i__dnp__image__settings__s.html", [
+      [ "bam", "structcbmimage__i__dnp__image__settings__s.html#ab12d051c2c907c24650c4c8becf076e4", null ]
+    ] ],
+    [ "cbmimage_image_settings_s", "structcbmimage__image__settings__s.html", [
+      [ "bam", "structcbmimage__image__settings__s.html#a866769ef5651e7cab10127776133d50e", null ],
+      [ "bam_count", "structcbmimage__image__settings__s.html#afeec20be8ae5be226803ea8a511c5a92", null ],
+      [ "bam_counter", "structcbmimage__image__settings__s.html#ad444d33de25a8538ecd694f671ff8999", null ],
+      [ "block_subdir_first", "structcbmimage__image__settings__s.html#aa8302d87850ee6a7e9774ca87019cba0", null ],
+      [ "block_subdir_last", "structcbmimage__image__settings__s.html#a4272a6e83f4909266eb225ef085e2307", null ],
+      [ "bytes_in_block", "structcbmimage__image__settings__s.html#a0928dac14dfc9d630b827cdb657ed00d", null ],
+      [ "d1m_d2m_d4m", "structcbmimage__image__settings__s.html#a855362fa0d4d20312968d9897fc03a8e", null ],
+      [ "d40_d64_d71", "structcbmimage__image__settings__s.html#acf9e25f191a653c1ff917dab67409d7b", null ],
+      [ "d80_d82", "structcbmimage__image__settings__s.html#a6b4509e0f1b0bb79ea6fcf8730dab373", null ],
+      [ "d81", "structcbmimage__image__settings__s.html#a900f4ea14601b1cf9b56a73a19abd69e", null ],
+      [ "dir", "structcbmimage__image__settings__s.html#a6a042bd48bd05400dc33ad8f2c7f8ca2", null ],
+      [ "dir_tracks", "structcbmimage__image__settings__s.html#a3a06b752091bb4922454df58c0b11263", null ],
+      [ "dnp", "structcbmimage__image__settings__s.html#aae0633684caabd362e904f74aa442514", null ],
+      [ "fat", "structcbmimage__image__settings__s.html#a3315d78b0658e5f9dc8e258306f63609", null ],
+      [ "fct", "structcbmimage__image__settings__s.html#abe68ce10f135c90ac25e316e0007d592", null ],
+      [ "geos_border", "structcbmimage__image__settings__s.html#a9be9d0c8a9f369dbafdc5eac0d7c952d", null ],
+      [ "has_super_sidesector", "structcbmimage__image__settings__s.html#a3e4bc17365a174b9dce37d9b147ca4a3", null ],
+      [ "image", "structcbmimage__image__settings__s.html#a4940c2eb2c48ab2686837c3274d3b68e", null ],
+      [ "imagetype", "structcbmimage__image__settings__s.html#a6c88acab8caf498b34cb7abdf7e9750a", null ],
+      [ "imagetype_name", "structcbmimage__image__settings__s.html#a26951a44ae9574419a10f215b3815d4e", null ],
+      [ "info", "structcbmimage__image__settings__s.html#ae6567fdd8c56f938be197123bfb6cae6", null ],
+      [ "info_offset_diskname", "structcbmimage__image__settings__s.html#a5750710e3e901aeef1714417dfa1ee5c", null ],
+      [ "is_geos", "structcbmimage__image__settings__s.html#acbfa3c5e87e7fc489d122d6056370b9b", null ],
+      [ "is_partition_table", "structcbmimage__image__settings__s.html#ab2a432b21b6346eb0647e8517f6a3792", null ],
+      [ "lastblock", "structcbmimage__image__settings__s.html#ab4f0558c150b8e6af8cb0a6a2129856f", null ],
+      [ "maxsectors", "structcbmimage__image__settings__s.html#a9af3235b1d76ec544b5c35bf4119e123", null ],
+      [ "maxtracks", "structcbmimage__image__settings__s.html#a1dfd12525945f3e88e4c0d732ad2fa3f", null ],
+      [ "next_settings", "structcbmimage__image__settings__s.html#a82a66e04d1788f698c4daf50f485898f", null ],
+      [ "subdir_data_offset", "structcbmimage__image__settings__s.html#a82d4b4b0de3d9fab31a31551195ba872", null ],
+      [ "subdir_global_addressing", "structcbmimage__image__settings__s.html#ad409feda32a50d9bd80733d006142f7d", null ],
+      [ "subdir_relative_addressing", "structcbmimage__image__settings__s.html#a82088117f7fd9a76618c7495886aafd6", null ]
+    ] ],
+    [ "cbmimage_image_parameter_s", "structcbmimage__image__parameter__s.html", [
+      [ "buffer", "structcbmimage__image__parameter__s.html#a617fb63c43c51bce8dd06960870bd38b", null ],
+      [ "errormap", "structcbmimage__image__parameter__s.html#a99020e002be7e418c1ec2325431758c0", null ],
+      [ "filename", "structcbmimage__image__parameter__s.html#a9ab4d2f6278798b1241ff8f0b5709f37", null ],
+      [ "size", "structcbmimage__image__parameter__s.html#afbb519c0ab16386e92d214268bbc1e1f", null ]
+    ] ],
+    [ "cbmimage_fileimage", "group__cbmimage__image.html#ga5169ab6270433dcb80cb916b9f4f18c7", null ],
+    [ "cbmimage_i_d1m_d2m_d4m_image_settings", "group__cbmimage__image.html#ga40120d4d325a217025b9d62112d71041", null ],
+    [ "cbmimage_i_d40_d64_d71_image_settings", "group__cbmimage__image.html#ga282f474dfc2f6fb51a24343ab2cc22b3", null ],
+    [ "cbmimage_i_d80_d82_image_settings", "group__cbmimage__image.html#ga6c8c5dae3ed66cc87554c16990243d3e", null ],
+    [ "cbmimage_i_d81_image_settings", "group__cbmimage__image.html#gade936c67731cf162bdc86369fac58ddd", null ],
+    [ "cbmimage_i_dnp_image_settings", "group__cbmimage__image.html#gacb2d9d8961dafe7558f169ffa712a8a7", null ],
+    [ "cbmimage_image_parameter", "group__cbmimage__image.html#ga382122b44d5d9539402861b0073ab563", null ],
+    [ "cbmimage_image_settings", "group__cbmimage__image.html#ga85510e889b0e546a0bc47dbed50eb4e4", null ],
+    [ "cbmimage_imagetype", "group__cbmimage__image.html#gab32bc40bb6d118fbc4ef86acacb39ae1", null ],
+    [ "cbmimage_imagetype_e", "group__cbmimage__image.html#gafced66f46bff9fdbf3a1ec6066bc2015", [
+      [ "TYPE_UNKNOWN", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a64599dea7071bc28732936e0bfddff3e", null ],
+      [ "TYPE_D40", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015af19101821ced0cddbfade2baf19d9f32", null ],
+      [ "TYPE_D64", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a903907c4b8ff2b621d4a39f183ff043f", null ],
+      [ "TYPE_D64_40TRACK", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015aeb687f64a4936a5dc876d1bfb0e7c159", null ],
+      [ "TYPE_D64_40TRACK_SPEEDDOS", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a9f82f7dde117b14e0ba3e5a3709a4869", null ],
+      [ "TYPE_D64_40TRACK_DOLPHIN", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015ac98d23e24a36711721bb4576ea1bf006", null ],
+      [ "TYPE_D64_40TRACK_PROLOGIC", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a777c92b127a7a34e73a0104062140f12", null ],
+      [ "TYPE_D64_42TRACK", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a5fa268a516711c556c39a626f599bf69", null ],
+      [ "TYPE_D71", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a51ce86ad3ac7568b85079bbe673fd44f", null ],
+      [ "TYPE_D81", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a00c906d24d7f6897cc37c00ad6769f3e", null ],
+      [ "TYPE_D80", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015ad5139bed5ea13e23313c6cf7087406cf", null ],
+      [ "TYPE_D82", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015ab01ad7d81d5865822f9bb9dda54adb51", null ],
+      [ "TYPE_CMD_D1M", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015ae4e6ec2444e65800f8c970280cac321e", null ],
+      [ "TYPE_CMD_D2M", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015ad7561322293101b2552f0783f67efa11", null ],
+      [ "TYPE_CMD_D4M", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015a10932a0fdf712a9909b4544b3832a9f8", null ],
+      [ "TYPE_CMD_NATIVE", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015af9def1d63a179ab3a732c07ae1dcc9c6", null ],
+      [ "TYPE_LAST", "group__cbmimage__image.html#ggafced66f46bff9fdbf3a1ec6066bc2015ad542875846196df98ba2ca49f5be9c3d", null ]
+    ] ],
+    [ "cbmimage_get_bytes_in_block", "group__cbmimage__image.html#gae3525c085e57342ff54d326bbd220c3e", null ],
+    [ "cbmimage_get_filename", "group__cbmimage__image.html#ga85d94460cd02a790aa256b0171a64748", null ],
+    [ "cbmimage_get_imagetype_name", "group__cbmimage__image.html#ga7a0d661c75add2fd3b2fdb6cd42ab8bd", null ],
+    [ "cbmimage_get_max_lba", "group__cbmimage__image.html#ga869eadc6105e87b176b6a2d069adfe22", null ],
+    [ "cbmimage_get_max_sectors", "group__cbmimage__image.html#ga1ddbb33e10d498e4388e28d15f443942", null ],
+    [ "cbmimage_get_max_track", "group__cbmimage__image.html#ga001518221399d4a1a61cb4767c04c378", null ],
+    [ "cbmimage_get_sectors_in_track", "group__cbmimage__image.html#gaa8d9e780ec05766c1f959cfc6a1de7b9", null ],
+    [ "cbmimage_i_create_last_block", "group__cbmimage__image.html#ga2cd1051d4ba669c76b2d96fccf058019", null ],
+    [ "cbmimage_i_fileimage_create", "group__cbmimage__image.html#ga100b69687659f934589908ea232ddc64", null ],
+    [ "cbmimage_image_close", "group__cbmimage__image.html#gabdd72907785becb84a88750eb627e786", null ],
+    [ "cbmimage_image_fat_dump", "group__cbmimage__image.html#ga2419ef5e701cd60cbec9311a160b71c5", null ],
+    [ "cbmimage_image_file_guesstype", "group__cbmimage__image.html#gae74dcd6c29e27428b7ba3d4467b2a7a7", null ],
+    [ "cbmimage_image_get_raw", "group__cbmimage__image.html#gac31b5dbedb805fa5fac03361819219fc", null ],
+    [ "cbmimage_image_get_raw_size", "group__cbmimage__image.html#ga847a4ac136c8acedd4f10ebeec8b7b0a", null ],
+    [ "cbmimage_image_guesstype", "group__cbmimage__image.html#ga7d01110243af697f55721600c9de57fa", null ],
+    [ "cbmimage_image_open", "group__cbmimage__image.html#ga850c98d515616629b80508c0fc70dc82", null ],
+    [ "cbmimage_image_openfile", "group__cbmimage__image.html#ga3c64e44d25a04dbb3355e319f64ab52c", null ],
+    [ "cbmimage_image_readfile", "group__cbmimage__image.html#ga3c0d48a5751c05871e8e754dcbb7db12", null ],
+    [ "cbmimage_image_writefile", "group__cbmimage__image.html#gabea374e0bd58981abc8ddb5789a521b6", null ]
+];

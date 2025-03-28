@@ -1,0 +1,20 @@
+<map id="lib/dnp.c" name="lib/dnp.c">
+<area shape="rect" id="Node000001" title="cbmimage: specific functions for CMD native partitions (DNP)" alt="" coords="254,5,323,31"/>
+<area shape="rect" id="Node000002" href="$internal_8h.html" title="cbmimage internals" alt="" coords="5,79,143,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,34,126,76,124,71,253,29"/>
+<area shape="rect" id="Node000006" href="$alloc_8h.html" title="cbmimage alloc function definitions" alt="" coords="132,153,254,178"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="267,34,238,53,214,80,202,109,196,138,191,137,197,107,209,78,235,49,264,29"/>
+<area shape="rect" id="Node000007" href="$helper_8h.html" title="cbmimage internals" alt="" coords="224,79,354,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="291,31,291,63,286,63,286,31"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="378,79,445,105"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="311,29,379,69,376,73,308,34"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="469,79,532,105"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="325,29,455,72,453,77,323,34"/>
+<area shape="rect" id="Node000003" href="$cbmimage_8h.html" title="cbmimage API and their definitions" alt="" coords="16,153,108,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,105,69,138,64,137,69,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="138,226,205,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,177,142,215,139,220,79,181"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="30,226,94,252"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="65,179,65,211,59,211,59,179"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="192,179,182,212,177,211,187,178"/>
+</map>

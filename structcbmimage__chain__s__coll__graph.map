@@ -1,0 +1,49 @@
+<map id="cbmimage_chain_s" name="cbmimage_chain_s">
+<area shape="rect" id="Node000001" title="type to describe a chain that is followed" alt="" coords="1252,125,1386,151"/>
+<area shape="rect" id="Node000002" href="$structcbmimage__fileimage__s.html" title="Type that describes a CBM disk image on which to operate." alt="" coords="572,215,725,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="686,205,724,187,767,170,832,153,899,141,1033,127,1155,126,1252,130,1252,135,1155,131,1033,133,900,146,833,158,768,175,726,191,688,210"/>
+<area shape="rect" id="Node000003" href="$structcbmimage__image__settings__s.html" title="Image specific settings for all types of images ." alt="" coords="1224,541,1414,567"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="740,224,861,226,997,236,1062,244,1120,256,1168,272,1201,292,1229,322,1252,355,1287,427,1308,494,1318,541,1313,542,1303,495,1282,429,1248,358,1225,325,1198,296,1165,277,1119,261,1061,250,997,241,861,232,740,229"/>
+<area shape="rect" id="Node000005" href="$structcbmimage__blockaccessor__s.html" title="cbmimage block accessor data structure" alt="" coords="895,355,1082,380"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="677,248,719,279,768,308,833,327,932,352,931,357,832,332,766,313,716,284,674,252"/>
+<area shape="rect" id="Node000008" href="$structcbmimage__fat__s.html" title="cbmimage FAT structure" alt="" coords="930,472,1047,498"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="672,250,724,309,769,357,797,378,821,392,845,406,873,428,885,444,897,457,931,472,928,477,894,462,881,447,869,432,842,410,818,396,794,382,766,360,720,313,668,254"/>
+<area shape="rect" id="Node000017" href="$structcbmimage__loop__s.html" title="cbmimage loop detector struct" alt="" coords="925,163,1052,188"/>
+<area shape="poly" id="edge29_Node000017_Node000002" title=" " alt="" coords="740,210,767,206,925,182,925,187,768,211,740,216"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1309,527,1297,482,1275,427,1243,372,1222,347,1198,327,1172,315,1138,307,1052,298,963,295,895,289,789,267,697,244,699,238,790,262,896,284,963,290,1052,293,1138,302,1174,310,1201,323,1226,344,1247,368,1280,424,1302,480,1315,526"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="1288,524,1299,517,1319,515,1338,517,1349,523,1353,533,1347,542,1343,540,1347,532,1345,527,1336,522,1319,520,1300,522,1291,528"/>
+<area shape="rect" id="Node000004" href="$structcbmimage__fileimage__functions__s.html" title="BAM counter selector ." alt="" coords="919,407,1058,448"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1074,439,1137,455,1201,477,1258,508,1302,539,1299,543,1255,512,1199,482,1135,460,1073,444"/>
+<area shape="poly" id="edge30_Node000001_Node000005" title=" " alt="" coords="1052,346,1080,333,1151,287,1215,234,1303,150,1307,154,1218,238,1154,291,1083,338,1054,351"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="1085,382,1144,400,1201,428,1237,455,1268,485,1311,539,1306,542,1264,489,1233,459,1198,432,1142,405,1083,387"/>
+<area shape="rect" id="Node000006" href="$structcbmimage__blockaddress__s.html" title="Address on drive." alt="" coords="253,435,432,460"/>
+<area shape="poly" id="edge27_Node000001_Node000006" title=" " alt="" coords="357,420,387,373,431,313,486,252,518,224,552,200,622,159,686,130,745,112,803,103,862,100,927,100,1082,105,1141,104,1200,108,1271,122,1270,127,1199,113,1141,109,1082,110,927,106,863,105,804,108,746,118,688,135,625,163,554,204,521,228,490,256,435,317,391,376,361,423"/>
+<area shape="poly" id="edge13_Node000003_Node000006" title=" " alt="" coords="403,462,566,505,666,526,768,543,957,548,1224,551,1224,556,957,554,767,548,665,532,565,510,402,468"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="433,429,553,408,659,387,767,372,895,365,895,370,768,377,660,392,553,413,434,434"/>
+<area shape="rect" id="Node000010" href="$structcbmimage__i__bam__selector__s.html" title="BAM Selector ." alt="" coords="553,712,743,738"/>
+<area shape="poly" id="edge15_Node000010_Node000006" title=" " alt="" coords="369,470,470,573,560,651,632,710,628,714,557,656,466,576,365,474"/>
+<area shape="rect" id="Node000007" href="$structcbmimage__track__sector__s.html" title="Address on floppy: Track/Sector variant." alt="" coords="5,435,180,460"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="195,445,253,445,253,450,195,450"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="1063,490,1200,514,1281,538,1279,543,1199,519,1062,496"/>
+<area shape="rect" id="Node000009" href="$structcbmimage__fat__entry__s.html" title="cbmimage One entry of the FAT structure" alt="" coords="572,423,724,448"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="740,444,872,462,930,472,929,477,871,467,739,449"/>
+<area shape="poly" id="edge14_Node000003_Node000010" title=" " alt="" coords="675,747,717,789,769,833,847,889,882,909,917,923,952,930,990,932,1033,926,1081,914,1119,900,1147,884,1171,862,1198,831,1222,797,1244,759,1278,682,1300,613,1312,566,1317,568,1305,615,1283,684,1248,762,1227,799,1202,834,1175,866,1150,888,1121,904,1082,919,1034,931,991,937,952,936,915,928,880,914,844,894,766,838,714,793,671,751"/>
+<area shape="rect" id="Node000011" href="$structcbmimage__i__d40__d64__d71__image__settings__s.html" title="Image specific settings for D40, D64 and D71 images ." alt="" coords="909,572,1068,613"/>
+<area shape="poly" id="edge17_Node000011_Node000010" title=" " alt="" coords="673,700,715,667,766,637,838,613,908,599,909,604,839,618,768,642,718,671,676,704"/>
+<area shape="rect" id="Node000012" href="$structcbmimage__i__d81__image__settings__s.html" title="Image specific settings for D81 images ." alt="" coords="908,638,1069,678"/>
+<area shape="poly" id="edge19_Node000012_Node000010" title=" " alt="" coords="708,705,767,690,907,666,908,671,768,695,710,710"/>
+<area shape="rect" id="Node000013" href="$structcbmimage__i__d80__d82__image__settings__s.html" title="Image specific settings for D80 and D82 images ." alt="" coords="915,703,1062,744"/>
+<area shape="poly" id="edge21_Node000013_Node000010" title=" " alt="" coords="758,722,914,721,914,726,758,727"/>
+<area shape="rect" id="Node000014" href="$structcbmimage__i__d1m__d2m__d4m__image__settings__s.html" title="Image specific settings for CMD D1M, D2M and D4M images ." alt="" coords="907,768,1070,809"/>
+<area shape="poly" id="edge23_Node000014_Node000010" title=" " alt="" coords="704,740,768,758,839,770,907,779,906,784,838,775,767,763,702,745"/>
+<area shape="rect" id="Node000015" href="$structcbmimage__i__dnp__image__settings__s.html" title="Image specific settings for CMD DNP images ." alt="" coords="908,834,1069,874"/>
+<area shape="poly" id="edge25_Node000015_Node000010" title=" " alt="" coords="681,745,722,771,768,795,839,819,908,837,907,842,837,825,766,800,719,775,678,749"/>
+<area shape="poly" id="edge16_Node000003_Node000011" title=" " alt="" coords="1083,580,1199,567,1223,564,1224,569,1200,572,1084,585"/>
+<area shape="poly" id="edge18_Node000003_Node000012" title=" " alt="" coords="1084,631,1199,597,1284,565,1286,570,1201,602,1085,637"/>
+<area shape="poly" id="edge20_Node000003_Node000013" title=" " alt="" coords="1076,697,1138,674,1198,646,1258,604,1302,566,1305,570,1261,609,1201,650,1140,679,1078,702"/>
+<area shape="poly" id="edge22_Node000003_Node000014" title=" " alt="" coords="1083,762,1142,739,1198,706,1235,671,1267,632,1308,566,1313,569,1271,635,1239,675,1201,710,1145,744,1085,767"/>
+<area shape="poly" id="edge24_Node000003_Node000015" title=" " alt="" coords="1084,833,1144,810,1172,794,1198,775,1222,751,1243,723,1277,663,1299,607,1312,567,1317,568,1304,609,1281,665,1248,726,1226,754,1201,779,1175,799,1146,815,1085,838"/>
+<area shape="rect" id="Node000016" href="$structcbmimage__image__parameter__s.html" title="Parameter of the image ." alt="" coords="242,5,444,31"/>
+<area shape="poly" id="edge26_Node000002_Node000016" title=" " alt="" coords="378,38,629,212,626,216,375,42"/>
+<area shape="poly" id="edge28_Node000001_Node000017" title=" " alt="" coords="1067,164,1252,143,1252,148,1067,169"/>
+</map>

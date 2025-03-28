@@ -1,0 +1,17 @@
+<map id="include/cbmimage/helper.h" name="include/cbmimage/helper.h">
+<area shape="rect" id="Node000001" title="cbmimage internals" alt="" coords="265,5,440,31"/>
+<area shape="rect" id="Node000002" href="$bam_8c.html" title="cbmimage: BAM processing functions" alt="" coords="5,79,79,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,37,91,82,80,84,79,79,89,76,283,32"/>
+<area shape="rect" id="Node000003" href="$d80__d82_8c.html" title="cbmimage: specific functions and data for D80 and D82 images" alt="" coords="103,79,200,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,39,187,81,185,76,303,34"/>
+<area shape="rect" id="Node000004" href="$d81_8c.html" title="cbmimage: specific functions and data for D81 images" alt="" coords="225,79,294,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="326,43,277,81,273,77,323,39"/>
+<area shape="rect" id="Node000005" href="$dnp_8c.html" title="cbmimage: specific functions for CMD native partitions (DNP)" alt="" coords="318,79,387,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="355,46,355,79,350,79,350,46"/>
+<area shape="rect" id="Node000006" href="$file_8c.html" title="cbmimage: file handling functions" alt="" coords="411,79,476,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,39,430,77,427,81,378,43"/>
+<area shape="rect" id="Node000007" href="$fileimage_8c.html" title="cbmimage: image specific processing" alt="" coords="499,79,598,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="401,34,516,76,514,81,399,39"/>
+<area shape="rect" id="Node000008" href="$testhelper_8c.html" title="cbmimage Test helper functions" alt="" coords="623,79,728,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="423,32,623,76,621,81,422,37"/>
+</map>

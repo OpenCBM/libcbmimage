@@ -1,0 +1,15 @@
+<map id="lib/cbprint.c" name="lib/cbprint.c">
+<area shape="rect" id="Node000001" title="cbmimage: return text print(f)&#45;style" alt="" coords="166,5,253,31"/>
+<area shape="rect" id="Node000002" href="$internal_8h.html" title="cbmimage internals" alt="" coords="14,79,152,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,34,119,73,116,69,187,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="176,79,243,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="212,31,212,63,207,63,207,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="268,79,327,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="226,29,273,67,269,71,223,34"/>
+<area shape="rect" id="Node000003" href="$cbmimage_8h.html" title="cbmimage API and their definitions" alt="" coords="37,153,129,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,105,86,137,80,137,80,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,226,73,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="78,180,57,214,52,211,73,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="97,226,160,252"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="93,177,115,212,110,215,88,180"/>
+</map>

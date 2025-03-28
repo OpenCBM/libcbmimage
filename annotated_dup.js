@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "bam_mask_t", "structbam__mask__t.html", "structbam__mask__t" ],
+    [ "cbmimage_blockaccessor_s", "structcbmimage__blockaccessor__s.html", "structcbmimage__blockaccessor__s" ],
+    [ "cbmimage_blockaddress_s", "structcbmimage__blockaddress__s.html", "structcbmimage__blockaddress__s" ],
+    [ "cbmimage_chain_s", "structcbmimage__chain__s.html", "structcbmimage__chain__s" ],
+    [ "cbmimage_dir_entry_s", "structcbmimage__dir__entry__s.html", "structcbmimage__dir__entry__s" ],
+    [ "cbmimage_dir_header_name_s", "structcbmimage__dir__header__name__s.html", "structcbmimage__dir__header__name__s" ],
+    [ "cbmimage_dir_header_s", "structcbmimage__dir__header__s.html", "structcbmimage__dir__header__s" ],
+    [ "cbmimage_fat_entry_s", "structcbmimage__fat__entry__s.html", "structcbmimage__fat__entry__s" ],
+    [ "cbmimage_fat_s", "structcbmimage__fat__s.html", "structcbmimage__fat__s" ],
+    [ "cbmimage_file_s", "structcbmimage__file__s.html", "structcbmimage__file__s" ],
+    [ "cbmimage_fileimage_functions_s", "structcbmimage__fileimage__functions__s.html", "structcbmimage__fileimage__functions__s" ],
+    [ "cbmimage_fileimage_s", "structcbmimage__fileimage__s.html", "structcbmimage__fileimage__s" ],
+    [ "cbmimage_i_bam_selector_s", "structcbmimage__i__bam__selector__s.html", "structcbmimage__i__bam__selector__s" ],
+    [ "cbmimage_i_d1m_d2m_d4m_image_settings_s", "structcbmimage__i__d1m__d2m__d4m__image__settings__s.html", "structcbmimage__i__d1m__d2m__d4m__image__settings__s" ],
+    [ "cbmimage_i_d40_d64_d71_image_settings_s", "structcbmimage__i__d40__d64__d71__image__settings__s.html", "structcbmimage__i__d40__d64__d71__image__settings__s" ],
+    [ "cbmimage_i_d80_d82_image_settings_s", "structcbmimage__i__d80__d82__image__settings__s.html", "structcbmimage__i__d80__d82__image__settings__s" ],
+    [ "cbmimage_i_d81_image_settings_s", "structcbmimage__i__d81__image__settings__s.html", "structcbmimage__i__d81__image__settings__s" ],
+    [ "cbmimage_i_dir_entry_internal_s", "structcbmimage__i__dir__entry__internal__s.html", "structcbmimage__i__dir__entry__internal__s" ],
+    [ "cbmimage_i_dnp_image_settings_s", "structcbmimage__i__dnp__image__settings__s.html", "structcbmimage__i__dnp__image__settings__s" ],
+    [ "cbmimage_image_parameter_s", "structcbmimage__image__parameter__s.html", "structcbmimage__image__parameter__s" ],
+    [ "cbmimage_image_settings_s", "structcbmimage__image__settings__s.html", "structcbmimage__image__settings__s" ],
+    [ "cbmimage_loop_s", "structcbmimage__loop__s.html", "structcbmimage__loop__s" ],
+    [ "cbmimage_mapping_size_imagetype_s", "structcbmimage__mapping__size__imagetype__s.html", "structcbmimage__mapping__size__imagetype__s" ],
+    [ "cbmimage_track_sector_s", "structcbmimage__track__sector__s.html", "structcbmimage__track__sector__s" ]
+];
