@@ -20,6 +20,8 @@ else
 
 endif
 
+DOXYDIR=$(RELATIVEPATH)doxygen
+
 DEPDIR=$(OUTPUTDIR)/$(EXEDIR).dep/
 
 
@@ -48,7 +50,7 @@ else
 
 $(SOURCEFILES): $(OUTPUTDIR) $(OUTPUTDIR)/$(EXEDIR)
 
-clean mrproper:: $(wildcard $(OUTPUTDIR)/)
+clean mrproper:: $(wildcard $(OUTPUTDIR)/) $(wildcard $(DOXYDIR)/*)
 	@test -z "$^" || rm -r -- $^
 
 mrproper:: $(wildcard */*/*~) $(wildcard */*~) $(wildcard *~)
